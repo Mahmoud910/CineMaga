@@ -1,1 +1,1 @@
-# CineMaga
+# CineMah
